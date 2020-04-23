@@ -1,4 +1,3 @@
-# iOS-threesome
 
 ## runtime相关问题
 
@@ -13,6 +12,8 @@
 * class_rw_t 和 class_ro_t 的区别
 
 * category如何被加载的,两个category的load方法的加载顺序，两个category的同名方法的加载顺序
+
+* 分类为什么会覆盖同名方法的原有实现? 被覆盖后原有实现还能否被调用到?
 
 * category & extension区别，能给NSObject添加Extension吗，结果如何
 
@@ -83,16 +84,23 @@
 
 ### runloop
 
-
 * app如何接收到触摸事件的
 
 * 为什么只有主线程的runloop是开启的
 
 * 为什么只在主线程刷新UI
 
+* 如何使线程保活
+
 * PerformSelector和runloop的关系
 
-* 如何使线程保活
+* GCD 和 runloop 的有关系吗? (dispatch async main)
+
+* source0 和 source1 分别处理哪些事件? 举出具体的例子(触摸,滑动,振动,锁屏,网络切换,网络回调等等)
+
+* UI 渲染和 runloop observer 时机之间的关系(before wating时机)
+
+* runloop observer 的作用以及实践(监测主线程卡顿, 获取UI渲染任务提交时机)
 
 ### KVO
 
@@ -142,13 +150,17 @@
 
 * dispatch_once实现原理
 
+* NSOperationQueue中的maxConcurrentOperationCount默认值
+
+* NSTimer、CADisplayLink、dispatch_source_t 的优劣
+
 * 什么情况下会死锁
 
 * 有哪些类型的线程锁，分别介绍下作用和使用场景
 
-* NSOperationQueue中的maxConcurrentOperationCount默认值
+* 谈谈对各种锁的性能对比, 分别举一个性能好和不好的锁讲讲为什么
 
-* NSTimer、CADisplayLink、dispatch_source_t 的优劣
+* 谈谈对线程优先级反转的理解, 以及如何避免这种情况出现
 
 ## 视图&图像相关
 
@@ -215,3 +227,8 @@
 * 沙盒目录的每个文件夹划分的作用
 
 * 简述下match-o文件结构
+
+* 谈谈对野指针的理解, 为什么会出现野指针, 野指针一定会造成 crash 吗?
+
+* 谈谈动态库与静态库的区别, 各自的利弊分别是什么
+
