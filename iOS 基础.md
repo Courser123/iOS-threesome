@@ -170,6 +170,8 @@
 
 * 事件响应链
 
+* [全面的事件传递](https://www.jianshu.com/p/2e074db792ba)
+
 * drawrect & layoutsubviews调用时机
 
 * UI的刷新原理
