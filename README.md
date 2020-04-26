@@ -9,6 +9,7 @@
 * 数据结构 (大话数据结构)
 * [操作系统 (B 站操作系统视频-清华)]( https://www.bilibili.com/video/BV1js411b7vg?t=28)
 * [编译原理 (B 站编译原理视频-国防科大)](https://www.bilibili.com/video/BV11t411V74n/?p=27&t=5)
+* [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
 
 ---
 #### 有关LLVM的文章
@@ -29,5 +30,4 @@
 | 编译原理之词法分析简介  | http://mp.weixin.qq.com/s/D5IqhiDfe2gGb1Hkm2uS2w |
 | 聊聊Xcode 中的编译器以及编译过程  | http://mp.weixin.qq.com/s/ek67JgwBJxvc6mGcr-F-hg |
 
-#### iOS高级动画文档
-https://zsisme.gitbooks.io/ios-/content/index.html
+
