@@ -28,3 +28,6 @@
 | 深入剖析 iOS 编译 Clang LLVM  | https://github.com/ming1016/study/wiki/深入剖析-iOS-编译-Clang---LLVM |
 | 编译原理之词法分析简介  | http://mp.weixin.qq.com/s/D5IqhiDfe2gGb1Hkm2uS2w |
 | 聊聊Xcode 中的编译器以及编译过程  | http://mp.weixin.qq.com/s/ek67JgwBJxvc6mGcr-F-hg |
+
+#### iOS高级动画文档
+https://zsisme.gitbooks.io/ios-/content/index.html
