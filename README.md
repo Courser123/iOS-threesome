@@ -10,6 +10,7 @@
 * [操作系统 (B 站操作系统视频-清华)]( https://www.bilibili.com/video/BV1js411b7vg?t=28)
 * [编译原理 (B 站编译原理视频-国防科大)](https://www.bilibili.com/video/BV11t411V74n/?p=27&t=5)
 * [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
+* [iOS面试准备之思维导图](https://www.jianshu.com/p/a2c85b9f6a25)
 
 ---
 #### 有关LLVM的文章
