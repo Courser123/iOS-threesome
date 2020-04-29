@@ -4,8 +4,8 @@
 ### 相关资料
 
 * 网络相关 (图解 HTTP)
-* 算法相关 (剑指 offer)
-* [设计模式 (大话设计模式)]( https://github.com/Courser123/iOS-threesome/blob/master/书籍/大话设计模式(带目录完整版).pdf)
+* 算法相关 [(剑指 offer第二版)](./Files/剑指OFFER  名企面试官精讲典型编程题  第2版.pdf)
+* 设计模式 [(大话设计模式)](./Files/大话设计模式(带目录完整版).pdf)
 * 数据结构 (大话数据结构)
 * [操作系统 (B 站操作系统视频-清华)]( https://www.bilibili.com/video/BV1js411b7vg?t=28)
 * [编译原理 (B 站编译原理视频-国防科大)](https://www.bilibili.com/video/BV11t411V74n/?p=27&t=5)
