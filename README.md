@@ -18,7 +18,7 @@
 ### 相关资料
 
 * 网络相关 (图解 HTTP)
-* 算法相关 [(剑指 offer第二版)](./Files/剑指OFFER  名企面试官精讲典型编程题  第2版.pdf)
+* 算法相关 [(剑指 offer第二版)](https://github.com/Courser123/iOS-threesome/blob/master/Files/%E5%89%91%E6%8C%87OFFER%20%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E5%AE%98%E7%B2%BE%E8%AE%B2%E5%85%B8%E5%9E%8B%E7%BC%96%E7%A8%8B%E9%A2%98%20%20%E7%AC%AC2%E7%89%88.pdf)
 * 设计模式 [(大话设计模式)](./Files/大话设计模式(带目录完整版).pdf)
 * 数据结构 (大话数据结构)
 * [操作系统 (B 站操作系统视频-清华)]( https://www.bilibili.com/video/BV1js411b7vg?t=28)
