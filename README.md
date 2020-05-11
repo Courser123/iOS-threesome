@@ -26,6 +26,7 @@
 * [线性代数 (B 站线性代数的本质)](https://www.bilibili.com/video/BV1ys411472E?p=1)
 * [操作系统 (B 站操作系统视频-清华)]( https://www.bilibili.com/video/BV1js411b7vg?t=28)
 * [编译原理 (B 站编译原理视频-国防科大)](https://www.bilibili.com/video/BV11t411V74n/?p=27&t=5)
+* [计算机网络 (B 站计算机网络视频)](https://www.bilibili.com/video/BV1Hx411D7rn?t=10&p=71)
 * [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
 * [iOS面试准备之思维导图](https://www.jianshu.com/p/a2c85b9f6a25)
 * [iOS Core Animation Advanced Techniques中文版](https://www.bookstack.cn/read/iOS-Core-Animation-Advanced-Techniques/README.md)
