@@ -30,6 +30,7 @@
 * [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
 * [iOS面试准备之思维导图](https://www.jianshu.com/p/a2c85b9f6a25)
 * [iOS Core Animation Advanced Techniques中文版](https://www.bookstack.cn/read/iOS-Core-Animation-Advanced-Techniques/README.md)
+* [算法+计算机基础分类汇总](https://zhuanlan.zhihu.com/p/93398256?utm_source=wechat_session&utm_medium=social&utm_oi=794482984039383040)
 
 ---
 #### 有关LLVM的文章
