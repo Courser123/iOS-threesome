@@ -17,7 +17,8 @@
 
 ### 相关资料
 
-* 网络相关 (图解 HTTP)
+* [图解 HTTP 提取码:kr1x](https://pan.baidu.com/s/1QXkHzcbMg4gCkfTqC-s8TQ)
+* [计算机网络自顶向下 提取码:0wnw](https://pan.baidu.com/s/1kAxPovxinzCImcSlTBRT7w)
 * 算法相关 [(剑指 offer第二版)](./Files/剑指OFFER名企面试官精讲典型编程题第2版.pdf)
 * 设计模式 [(大话设计模式)](./Files/大话设计模式(带目录完整版).pdf) 
 * [iOS设计模式解析 提取码:ntpv] (https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)
