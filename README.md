@@ -15,23 +15,27 @@
 
 
 
-### 相关资料
+### 基础知识相关资料
 
 * [图解 HTTP 提取码:kr1x](https://pan.baidu.com/s/1QXkHzcbMg4gCkfTqC-s8TQ)
 * [计算机网络自顶向下 提取码:0wnw](https://pan.baidu.com/s/1kAxPovxinzCImcSlTBRT7w)
 * 算法相关 [(剑指 offer第二版)](./Files/剑指OFFER名企面试官精讲典型编程题第2版.pdf)
 * 设计模式 [(大话设计模式)](./Files/大话设计模式(带目录完整版).pdf) 
-* [iOS设计模式解析 提取码:ntpv] (https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)
 * 数据结构 (大话数据结构)
 * [程序员的自我修养 提取码:ducj] (https://pan.baidu.com/s/1_jg3d88FhjEyy1mg_qKmvg)
 * [线性代数 (B 站线性代数的本质)](https://www.bilibili.com/video/BV1ys411472E?p=1)
 * [操作系统 (B 站操作系统视频-清华)]( https://www.bilibili.com/video/BV1js411b7vg?t=28)
 * [编译原理 (B 站编译原理视频-国防科大)](https://www.bilibili.com/video/BV11t411V74n/?p=27&t=5)
 * [计算机网络 (B 站计算机网络视频)](https://www.bilibili.com/video/BV1Hx411D7rn?t=10&p=71)
-* [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
+* [算法+计算机基础分类汇总](https://zhuanlan.zhihu.com/p/93398256?utm_source=wechat_session&utm_medium=social&utm_oi=794482984039383040)
+* [计算机组成原理-复习大纲](https://zhuanlan.zhihu.com/p/60958907)
+
+### iOS相关资料
+* [iOS设计模式解析 提取码:ntpv] (https://pan.baidu.com/s/1KOS290QFzjiq2tKVYA7h2A)
 * [iOS面试准备之思维导图](https://www.jianshu.com/p/a2c85b9f6a25)
 * [iOS Core Animation Advanced Techniques中文版](https://www.bookstack.cn/read/iOS-Core-Animation-Advanced-Techniques/README.md)
-* [算法+计算机基础分类汇总](https://zhuanlan.zhihu.com/p/93398256?utm_source=wechat_session&utm_medium=social&utm_oi=794482984039383040)
+* [iOS高级动画文档](https://zsisme.gitbooks.io/ios-/content/index.html)
+
 
 ---
 #### 有关LLVM的文章
